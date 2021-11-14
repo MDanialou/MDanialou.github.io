@@ -1,9 +1,10 @@
 Hi everyone! 
-Welcome to my ePortfolio. This site is to showcase my work and progress throughout my Cybersecurity Postgraduate Degree study with the University of Essex.
+<p> Welcome to my ePortfolio. This site is to showcase my work and progress throughout my Cybersecurity Postgraduate Degree study with the University of Essex.</p>
 
 
 ## About Me
-##### My name is Mohamed Daniaou. I'm a senior cybersecurity consultant working in the Oil & Gas sector. I have been in cybersecurity for 22 years
+<p> My name is Mohamed Daniaou. I'm a senior cybersecurity consultant working in the Oil & Gas sector. I have been in cybersecurity for 22 years for the most part as a freelance cybersecurity consultant. I'm currently studying as a postgraduate student at the University of Essex. </p>
+
 ## My Modules
 ### Launching into Cybersecurity
 ### Information Risk Management
