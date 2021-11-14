@@ -1,17 +1,19 @@
 ## Portfolio
 
-This site is to showcase my work and progress through my cybersecurity Postgraduate degree program with the University of Essex.
+This site is to showcase my work and progress throughout my Cybersecurity Postgraduate Degree study with the University of Essex.
 
-### Markdown
+## Modules
+## About Me
+## Contact
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Modules
+## About Me
+## Contact
 
 - Bulleted
 - List
